@@ -147,10 +147,6 @@
 	width: 34px;
 	height: 35px;
 	float: left;
-	1display: block;
-	1position: absolute;
-	1top: 0;
-	1left: 0;
 	background-image: url(img/Shape 3.png);
 	background-size: contain;
 	background-repeat: no-repeat;
@@ -221,4 +217,273 @@
 .screen-right {
 	margin-top: 18px;
 	float: right;
+}
+
+.reviews {
+	height: 400px;
+	background-color: #F5F5F5;
+}
+
+.reviews-h2 {
+	font-size: 30px;
+	line-height: 36px;
+	color: #445161;
+	text-align: center;
+	padding-top: 25px;
+	font-weight: 400;
+}
+
+.reviews-left {
+	margin-left: 50px;
+	margin-top: 29px;
+	float: left;
+	width: 576px;
+	height: 268px;
+}
+
+.reviews-item {
+	margin-bottom: 24px;
+	float: left;
+}
+
+.userpic {
+	width: 66px;
+	height: 66px;
+	float: left;
+	background-color: #445161;
+	border-radius: 50px;
+	margin-right: 15px;
+}
+
+.usertext {
+	width: 483px;
+	height: 121px;
+	border-radius: 5px;
+	background-color: #EBEBEB;
+	float: right;
+}
+
+.usertext-i {
+	color: #000000;
+	width: 458px;
+	height: 77px;
+	font-size: 14px;
+	line-height: 18px;
+	padding: 16px 10px 5px 15px;
+	float: left;
+}
+
+.usertext-name {
+	color: #989898;
+	font-size: 14px;
+	line-height: 18px;
+	padding-left: 15px;
+}
+
+.reviews-right {
+	margin-right: 50px;
+	margin-top: 29px;
+	float: right;
+	width: 576px;
+	height: 268px;
+}
+
+.buynow {
+	height: 656px;
+}
+
+.buynow-h2 {
+	color: #445161;
+	padding-top: 45px;
+	font-weight: 400;
+	font-size: 30px;
+	line-height: 36px;
+	text-align: center;
+}
+
+.standart {
+	margin: 219px 45px 0px 145px;
+	width: 300px;
+	height: 306px;
+	background-color: #445161;
+	border-radius: 5px;
+	float: left;
+}
+
+.premium {
+	margin: 121px 45px 0px 0px;
+	width: 300px;
+	height: 404px;
+	background-color: #445161;
+	border-radius: 5px;
+	float: left;
+}
+
+.lux {
+	margin: 26px 0px 0px 0px;
+	width: 300px;
+	height: 499px;
+	background-color: #445161;
+	border-radius: 5px;
+	float: left;
+}
+
+.buynow-h3 {
+	color: #FFFFFF;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 30px;
+	text-align: center;
+	padding: 13px 0px 7px 0px;
+}
+
+.buynow-p {
+	height: 71px;
+	border: 2px solid #445162;
+	background-color: #FFFFFF;
+	text-align: center;
+	font-weight: normal;
+	font-size: 40px;
+	line-height: 70px;
+	color: #445162;
+}
+
+.buynow-list {
+	padding: 8px 8px 16px 40px;
+}
+
+.buynow-list-item {
+	font-weight: normal;
+	font-size: 14px;
+	line-height: 24px;
+	color: #FFFFFF;
+}
+
+.button-buy {
+	width: 262px;
+	height: 43px;
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	color: #445161;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 40px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	margin-left: 19px;
+}
+
+.contacts {
+	height: 509px;
+	background: #445162;
+}
+
+.contacts-h2 {
+	font-size: 30px;
+	color: #FFFFFF;
+	text-align: center;
+	line-height: 36px;
+	padding-top: 25px;
+	font-weight: 400;
+}
+
+.contacts-form {
+	margin-left: 247px;
+	margin-top: 43px;
+	float: left;
+}
+
+.contacts-name {
+	width: 491px;
+	height: 43px;
+	display: block;
+	margin-bottom: 18px;
+	border-radius: 5px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #445162;
+	padding-left: 12px;
+}
+
+.contacts-email {
+	width: 491px;
+	height: 43px;
+	display: block;
+	margin-bottom: 19px;
+	border-radius: 5px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #445162;
+	padding-left: 12px;
+}
+
+.contacts-textarea {
+	width: 491px;
+	height: 173px;
+	display: block;
+	margin-bottom: 18px;
+	border-radius: 5px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #445162;
+	padding-left: 12px;
+	font-family: Arial;
+}
+
+.contacts-button {
+	width: 143px;
+	height: 43px;
+	border-radius: 5px;
+	margin-left: 180px;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 24px;
+	color: #445162;
+}
+
+.contacts-text {
+	float: left;
+	margin-left: 49px;
+	margin-top: 53px;
+}
+
+.contacts-img {
+	float: left;
+	width: 20px;
+	height: 20px;
+}
+
+.contacts-info {
+	display: block;
+	width: 400px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	color: #FFFFFF;
+	margin-bottom: 20px;
+	padding-left: 30px;
+}
+
+.social-link {
+	margin-top: 27px;
+	margin-right: 267px;
+	float: right;
+}
+
+.social-img {
+	width: 45px;
+	height: 45px;
+}
+
+footer {
+	height: 49px;
+	font-weight: 400;
+	font-size: 12px;
+	line-height: 40px;
+	color: #445162;
+	text-align: center;
 }
